@@ -1,0 +1,1 @@
+C:\Users\Данил\IdeaProjects\HelloKotlin\build\classes\kotlin\main\FirstAppKt.class
